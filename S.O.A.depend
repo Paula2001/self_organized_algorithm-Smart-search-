@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1538672756 source:c:\users\paula\desktop\algorithms\s.o.a\main.cpp
+	<iostream>
+	"SOA.h"
+
+1538661911 c:\users\paula\desktop\algorithms\s.o.a\soa.h
+	<iostream>
+	"Node.h"
+
+1538661299 c:\users\paula\desktop\algorithms\s.o.a\node.h
+	<iostream>
+
+1538661280 source:c:\users\paula\desktop\algorithms\s.o.a\node.cpp
+	"Node.h"
+
+1538674109 source:c:\users\paula\desktop\algorithms\s.o.a\soa.cpp
+	"SOA.h"
+
